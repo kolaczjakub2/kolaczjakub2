@@ -1,5 +1,5 @@
 ## Hi there ! My name is Slim Sha... Jakub 👋
-I'm 25 year Java/Fullstack Developer. Currently, I have worked in Crif in Cracow.
+I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
 
   <img style="float: right;" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Graduation_re_gthn.svg" alt='Header' height="200"/>
