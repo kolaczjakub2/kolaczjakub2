@@ -1,8 +1,13 @@
 ## Hi there ! My name is Slim Sha... Jakub 👋
 I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
+<style>
+#image {float: right;}
+#margin15 {margin:15px}
+#hobbyrow {display: flex;  justify-content: space-between;}
 
-  <img style="float: right;" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Graduation_re_gthn.svg" alt='Header' height="200"/>
+</style>
+  <img id="image" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Graduation_re_gthn.svg" alt='Header' height="200"/>
 
 ### Education:
 * first-cycle studies: Computer Science AGH at the Faculty of Metal Engineering and Industrial Computer Science. 
@@ -15,10 +20,10 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
         <td valign="top" width="50%">
             <h1 align='center'>Backend</h1>
             <div align="center">
-                <img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
                      alt="java"
                      height="100" width='100'/>
-                <img style="margin:15px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"
                      alt="Express.js"
                      height="100" width='100'/>
             </div>
@@ -26,20 +31,20 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
         <td valign="top" width="50%">
             <h1 align='center'>Frontend</h1>
             <div align="center">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg"
                      alt="Angular" height="100"/>
-                <img style="margin: 10px" src="https://camo.githubusercontent.com/9ba016dbbe60f7b2c2835b9e633f8db7e4176e2be102b3280c91884f37207e9a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e67756c61722d6d6174657269616c2d657874656e73696f6e732f73656c6563742d69636f6e406d61737465722f6173736574732f616e67756c61722d6d6174657269616c2d657874656e73696f6e732d6c6f676f2e737667"
+                <img id="margin15" src="https://camo.githubusercontent.com/9ba016dbbe60f7b2c2835b9e633f8db7e4176e2be102b3280c91884f37207e9a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616e67756c61722d6d6174657269616c2d657874656e73696f6e732f73656c6563742d69636f6e406d61737465722f6173736574732f616e67756c61722d6d6174657269616c2d657874656e73696f6e732d6c6f676f2e737667"
                      alt="Angular" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
                      alt="JavaScript" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
                      alt="CSS3" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
                      alt="TypeScript" height="100"/>
-                <img style="margin: 10px"
+                <img id="margin15"
                      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5"
                      height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
                      alt="Bootstrap" height="100"/>
             </div>
         </td>
@@ -48,11 +53,11 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
         <td valign="top" width="50%">
             <h1 align='center'> Databases </h1>
             <div align="center">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB"
                      height="100" width='100'/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/PostgreSQL-original-wordmark.svg" alt="MongoDB"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/PostgreSQL-original-wordmark.svg" alt="MongoDB"
                      height="100" width='100'/>
-                <img style="margin: 10px"
+                <img id="margin15"
                      src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"
                      height="100"/>
             </div>
@@ -60,13 +65,13 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
         <td valign="top" width="50%">
             <h1 align="center"> Dev Ops and Others</h1>
             <div align="center">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
+            <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"
                  height="100"/>
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins"
+            <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins"
                  height="100"/>
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
+            <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg"
                  alt="Docker" height="100"/>
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
+            <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"
                  height="100"/>
             </div>
         </td>
@@ -77,25 +82,25 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
         <td valign="top" width="50%">
             <h1 align='center'>Skills acquired in the near future (So hope)</h1>
             <div align="center">
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg"
                      alt="Kubernetes" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png"
                      alt="Elastic Search" height="100"/>
-                <img style="margin: 10px" src="https://assets.zabbix.com/img/brands/logstash.svg" alt="Logstash"
+                <img id="margin15" src="https://assets.zabbix.com/img/brands/logstash.svg" alt="Logstash"
                      height="120"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana"
                      height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg"
                      alt="RabbitMQ" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL"
                      height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
                      alt="Sass" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg"
                      alt="Hadoop" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg"
                      alt="Kafka" height="100"/>
-                <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg"
+                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg"
                      alt="Oracle" height="100"/>
             </div>
         </td>
@@ -103,11 +108,11 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
 ## 📈 GitHub Stats
 <div style=" display: flex;">
-<a style="margin:20px" href="https://github.com/kolaczjakub2/kolaczjakub2">
+<a id="margin15" href="https://github.com/kolaczjakub2/kolaczjakub2">
     <img align="center"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolaczjakub2&theme=algolia&hide=html"/>
 </a>
-<a style="margin:20px" href="https://github.com/kolaczjakub2/kolaczjakub2">
+<a id="margin15" href="https://github.com/kolaczjakub2/kolaczjakub2">
     <img align="center"
          src="https://github-readme-stats.vercel.app/api?username=kolaczjakub2&show_icons=true&theme=algolia"
          alt="Michal GitHub Stats"/>
@@ -117,13 +122,13 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 </div>
 
 ### My Hobbies:
-<div style="display: flex;  justify-content: space-between;">
-<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/header.svg" alt='Header' height="200"/>
-<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Code_thinking_re_gka2.svg" alt='Header' height="200"/>
+<div id="hobbyrow">
+<img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/header.svg" alt='Header' height="200"/>
+<img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Code_thinking_re_gka2.svg" alt='Header' height="200"/>
 </div>
-<div style="display: flex;  justify-content: space-between;">
-<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_gaming_6oy3.svg" alt='Header' height="200"/>
-<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_trip_dv9f.svg" alt='Header' height="200"/>
+<div id="hobbyrow">
+<img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_gaming_6oy3.svg" alt='Header' height="200"/>
+<img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_trip_dv9f.svg" alt='Header' height="200"/>
 </div>
 
 ## 🙈 About me
