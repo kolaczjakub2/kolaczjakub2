@@ -117,13 +117,14 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 </div>
 
 ### My Hobbies:
-
+<div style="display: flex;  justify-content: space-between;">
 <img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/header.svg" alt='Header' height="200"/>
 <img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Code_thinking_re_gka2.svg" alt='Header' height="200"/>
-
-<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_gaming_6oy3.svg" alt='Header' height="250"/>
-<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_trip_dv9f.svg" alt='Header' height="250"/>
-
+</div>
+<div style="display: flex;  justify-content: space-between;">
+<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_gaming_6oy3.svg" alt='Header' height="200"/>
+<img style="margin:20px" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_trip_dv9f.svg" alt='Header' height="200"/>
+</div>
 
 ## 🙈 About me
 ⚡ Fun fact:
