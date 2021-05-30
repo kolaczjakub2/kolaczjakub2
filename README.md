@@ -1,10 +1,10 @@
-##Hi there ! My name is Slim Sha... Jakub 👋
+## Hi there ! My name is Slim Sha... Jakub 👋
 I'm 25 year Java/Fullstack Developer. Currently, I have worked in Crif in Cracow.
 
 
   <img style="float: right;" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Graduation_re_gthn.svg" alt='Header' height="200"/>
 
-###Education:
+### Education:
 * first-cycle studies: Computer Science AGH at the Faculty of Metal Engineering and Industrial Computer Science. 
 * second-cycle studies: Computer Science at the Cracow University of Technology at the Faculty of Mechanical Engineering.
 
