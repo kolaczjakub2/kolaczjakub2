@@ -1,14 +1,11 @@
-<foreignObject width="100%" height="100%">
 <style>
-#image {float: right;}
-#margin15 {margin:15px}
-#hobbyrow {display: flex;  justify-content: space-between;}
-</style>
+  .margin15{margin:15px}
+  </style>
 
 ## Hi there ! My name is Slim Sha... Jakub 👋
 I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
-  <img id="image" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Graduation_re_gthn.svg" alt='Header' height="200"/>
+  <img class="image" align='right' src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Graduation_re_gthn.svg" alt='Header' height="200"/>
 
 ### Education:
 * first-cycle studies: Computer Science AGH at the Faculty of Metal Engineering and Industrial Computer Science. 
@@ -21,7 +18,7 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
         <td valign="top" width="50%">
             <h1 align='center'>Backend</h1>
             <div align="center">
-                <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
+                <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg"
                      alt="java"
                      height="100" width='100'/>
                 <img id="margin15" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"
@@ -108,7 +105,7 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
     </tr>
 
 ## 📈 GitHub Stats
-<div style=" display: flex;">
+<div align="center">
 <a id="margin15" href="https://github.com/kolaczjakub2/kolaczjakub2">
     <img align="center"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolaczjakub2&theme=algolia&hide=html"/>
@@ -123,11 +120,9 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 </div>
 
 ### My Hobbies:
-<div id="hobbyrow">
+<div align="center">
 <img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/header.svg" alt='Header' height="200"/>
 <img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_Code_thinking_re_gka2.svg" alt='Header' height="200"/>
-</div>
-<div id="hobbyrow">
 <img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_gaming_6oy3.svg" alt='Header' height="200"/>
 <img id="margin15" src="https://raw.githubusercontent.com/kolaczjakub2/kolaczjakub2/main/undraw_trip_dv9f.svg" alt='Header' height="200"/>
 </div>
@@ -154,5 +149,3 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
 
 <img src="https://komarev.com/ghpvc/?username=kolaczjakub2&&style=plastic" align="right"/>
-  
-</foreignObject>
