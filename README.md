@@ -1,3 +1,4 @@
+<foreignObject width="100%" height="100%">
 <style>
 #image {float: right;}
 #margin15 {margin:15px}
@@ -153,3 +154,5 @@ I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
 
 <img src="https://komarev.com/ghpvc/?username=kolaczjakub2&&style=plastic" align="right"/>
+  
+</foreignObject>
