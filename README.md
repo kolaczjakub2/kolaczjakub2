@@ -1,7 +1,3 @@
-<style>
-  .margin15{margin:15px}
-  </style>
-
 ## Hi there ! My name is Slim Sha... Jakub 👋
 I'm 25 year Java/Fullstack Developer. Currently, I work in Crif in Cracow.
 
